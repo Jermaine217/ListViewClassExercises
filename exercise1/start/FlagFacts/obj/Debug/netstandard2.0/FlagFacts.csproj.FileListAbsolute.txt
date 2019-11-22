@@ -1,0 +1,15 @@
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csprojAssemblyReference.cache
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\AllFlagsPage\AllFlagsPage.xaml.g.cs
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagDetailsPage.xaml.g.cs
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfoInputs.cache
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.AssemblyInfo.cs
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.dll
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.pdb
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.deps.json
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.dll
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagFacts.pdb
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.dll
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\bin\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\ListViewExercises\exercise1\start\FlagFacts\obj\Debug\netstandard2.0\FlagFacts.csproj.CopyComplete

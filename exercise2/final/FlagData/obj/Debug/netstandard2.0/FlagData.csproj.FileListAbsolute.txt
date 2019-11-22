@@ -1,0 +1,9 @@
+D:\Projects\ListViewExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\Projects\ListViewExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\Projects\ListViewExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\Projects\ListViewExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
